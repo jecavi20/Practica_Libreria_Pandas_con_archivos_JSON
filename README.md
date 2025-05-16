@@ -1,4 +1,4 @@
-# Practica_Libreria_Pandas_con_archivos_JSON
+# Practica_Libreria_Pandas_con_archivos_JSON_Alura_Latam
 
 Cargar archivos json en un Dataframe con Pandas y normaalizar los datos para que sea cargados en el Dataframe de manera correcta y legible
 
