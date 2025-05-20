@@ -25,7 +25,7 @@ Cargar archivos json en un Dataframe con Pandas y normaalizar los datos para que
 - Descarga el archivo .ipynb
 - Inicia sesion con tu cuenta de Gmail
 - Abre Google Colab en https://colab.google/
-- Presiona Opoen Colab
+- Presiona Open Colab
 - Luego la pestaña subir
 - Sube el archivo .ipynb
 - Ejecuta las celdas en orden desde la primera hasta la ultima
